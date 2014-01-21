@@ -32,6 +32,7 @@ In order to use RailsBricks, you need the following:
 
 - A nix-based OS. That can be any flavour of Linux or Mac OS X. **currently, RailsBricks doesn't run on Windows**. If you are a Microsoft Windows-based Rails developer, have a look at [Nitrous.IO](http://www.nitrous.io) 
 - some knowledge of Rails (!)
+- Ruby 2.0 (but *not* 2.1!)
 
 ## Install
 
