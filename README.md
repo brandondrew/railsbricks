@@ -63,7 +63,7 @@ rbricks --update
 
 ## Tip
 
-As RailsBricks will be in your `PATH`, you can simply type a few letters and then press the `tab` key. It will autocomplete the name in your terminal. Example:
+As RailsBricks will be in your `PATH`, you can simply type a few letters and then press the <kbd>tab</kbd> key. It will autocomplete the name in your terminal. Example:
 
 ```
 rbr + tab
